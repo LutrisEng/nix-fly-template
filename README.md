@@ -2,6 +2,11 @@
 
 This is a barebones template to build an application with [Nix](https://nixos.org/) and deploy it on [Fly.io](https://fly.io/).
 
+You can take a look at this barebones application serving this README.md on two environments:
+
+ - Staging: https://nix-fly-template-staging.fly.dev
+ - Production: https://nix-fly-template.fly.dev
+
 ## How to use
 
  1. Use this template to create a repository for your app
