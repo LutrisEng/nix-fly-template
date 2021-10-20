@@ -4,8 +4,8 @@ This is a barebones template to build an application with [Nix](https://nixos.or
 
 You can take a look at this barebones application serving this README.md on two environments:
 
- - Staging: https://nix-fly-template-staging.fly.dev
- - Production: https://nix-fly-template.fly.dev
+ - Staging: [https://nix-fly-template-staging.fly.dev](https://nix-fly-template-staging.fly.dev)
+ - Production: [https://nix-fly-template.fly.dev](https://nix-fly-template.fly.dev)
 
 ## How to use
 
