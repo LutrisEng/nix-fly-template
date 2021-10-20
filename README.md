@@ -1,4 +1,4 @@
-# nix-fly-template
+# [nix-fly-template](https://github.com/LutrisEng/nix-fly-template)
 
 This is a barebones template to build an application with [Nix](https://nixos.org/) and deploy it on [Fly.io](https://fly.io/).
 
