@@ -1,5 +1,7 @@
 # [nix-fly-template](https://github.com/LutrisEng/nix-fly-template)
 
+[![Deploy](https://github.com/LutrisEng/nix-fly-template/actions/workflows/fly.yml/badge.svg)](https://github.com/LutrisEng/nix-fly-template/actions/workflows/fly.yml)
+
 This is a barebones template to build an application with [Nix](https://nixos.org/) and deploy it on [Fly.io](https://fly.io/).
 
 You can take a look at this barebones application serving this README.md on two environments:
