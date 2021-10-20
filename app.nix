@@ -11,7 +11,7 @@ let
     ];
     buildPhase = ''
       mkdir root
-      pandoc README.md -s -o root/index.html
+      pandoc README.md README.yaml -s -o root/index.html
     '';
     installPhase = ''
       mkdir $out

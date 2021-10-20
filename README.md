@@ -1,7 +1,3 @@
----
-title: Build with Nix, deploy on Fly
----
-
 # [nix-fly-template](https://github.com/LutrisEng/nix-fly-template)
 
 [![Deploy](https://github.com/LutrisEng/nix-fly-template/actions/workflows/fly.yml/badge.svg)](https://github.com/LutrisEng/nix-fly-template/actions/workflows/fly.yml)
