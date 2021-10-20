@@ -6,9 +6,7 @@ on:
 jobs:
   staging:
     runs-on: ubuntu-latest
-    concurrency:
-      group: staging
-      cancel-in-progress: true
+    concurrency: staging
     environment:
       name: staging
       url: https://nix-fly-template-staging.fly.dev/
@@ -30,9 +28,7 @@ jobs:
   production:
     needs: staging
     runs-on: ubuntu-latest
-    concurrency:
-      group: production
-      cancel-in-progress: true
+    concurrency: production
     environment:
       name: production
       url: https://nix-fly-template.fly.dev/
