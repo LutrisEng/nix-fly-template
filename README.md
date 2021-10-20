@@ -1,6 +1,6 @@
 # nix-fly-template
 
-This is a barebones template to build an application with Nix and deploy it on Fly.io.
+This is a barebones template to build an application with [Nix](https://nixos.org/) and deploy it on [Fly.io](https://fly.io/).
 
 ## How to use
 
